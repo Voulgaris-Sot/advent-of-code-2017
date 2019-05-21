@@ -1,0 +1,22 @@
+a (1) -> b, c, d, e
+b (2) -> bb, bbb
+bb (3) -> bba, bbba
+bbb (4) -> bbbb
+bbbb (10)
+bba (5)
+bbba (6)
+c (2) -> cc, ccc
+cc (3) -> cca, ccca
+ccc (4)
+cca (5)
+ccca (6)
+d (2) -> dd, ddd
+dd (3) -> dda, ddda
+ddd (4)
+dda (7)
+ddda (6)
+e (2) -> ee, eee
+ee (3) -> eea, eeea
+eee (4)
+eea (5)
+eeea (6)
